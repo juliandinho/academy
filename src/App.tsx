@@ -110,7 +110,7 @@ const App: React.FC = () => {
             </Text>            
             <div className={styles.badgeContainer}>
               <Badge appearance="filled" color="brand">
-                Power Apps Code Apps
+                Power Apps Code Apps HELLO
               </Badge>
               <Badge appearance="outline" color="success">
                 Fluent UI v9
